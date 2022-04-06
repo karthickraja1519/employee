@@ -24,7 +24,7 @@ public class EmployeejpaApplication {
 		LOGGER.debug("Debug level log message");
 		LOGGER.error("Error level log message");
 		
-		System.out.print("hiii");
+		System.out.print("hello");
 	}
 
 }
