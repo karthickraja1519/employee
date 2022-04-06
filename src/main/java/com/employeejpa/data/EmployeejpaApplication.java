@@ -23,6 +23,8 @@ public class EmployeejpaApplication {
 		LOGGER.info("Info level log message");
 		LOGGER.debug("Debug level log message");
 		LOGGER.error("Error level log message");
+		
+		System.out.print("hiii");
 	}
 
 }
